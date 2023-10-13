@@ -2,5 +2,5 @@
 Repositório para o desafio de projeto no Power BI Desktop
 
 <div aling="center">
-  <img src="https://github.com/MestreWil/copia-do-google/assets/112444968/4d38f5f2-d78e-41a8-bd74-f6291e1f68e8" width="500px"/>
+  <img src="https://github.com/MestreWil/powerBI-DIO/blob/main/powerBI_DIO/Captura%20de%20tela%202023-10-12%20224311.png" width="500px"/>
 </div>
